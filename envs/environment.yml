@@ -5,10 +5,12 @@ channels:
   - defaults
 dependencies:
   - python=3.12
+  - pip
   - pytorch
   - tokenizers
   - sentence-transformers
   - pandas
   - numpy
   - scikit-learn
-  - pip
+  - nbformat 
+  - plotly                    
