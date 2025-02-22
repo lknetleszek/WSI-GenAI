@@ -1,4 +1,4 @@
-name: wsi-genai
+name: base
 channels:
   - conda-forge
   - pytorch
