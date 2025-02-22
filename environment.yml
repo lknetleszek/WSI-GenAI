@@ -1,4 +1,4 @@
-name: arisa-genai
+name: wsi-genai
 channels:
   - conda-forge
   - pytorch
@@ -13,4 +13,6 @@ dependencies:
   - numpy
   - scikit-learn
   - nbformat 
-  - plotly                    
+  - plotly      
+  - openai   
+  - python-dotenv        
