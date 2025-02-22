@@ -1,0 +1,14 @@
+name: arisa-genai
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - tokenizers
+  - sentence-transformers
+  - pandas
+  - numpy
+  - scikit-learn
+  - pip
